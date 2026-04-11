@@ -21,8 +21,6 @@ namespace WebApplication_test.Controllers
         public ActionResult Create()
         { int a = 0;
             string b = "test";
-            int s = 3;
-            string t = "this is secod";
             
             return View();
         }
