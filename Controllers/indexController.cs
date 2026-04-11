@@ -23,7 +23,7 @@ namespace WebApplication_test.Controllers
             string b = "test";
             int s = 3;
             string t = "this is secod";
-            
+            string y = "this is 3rd new test";
             return View();
         }
 
