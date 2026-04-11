@@ -19,7 +19,9 @@ namespace WebApplication_test.Controllers
 
         // GET: indexController/Create
         public ActionResult Create()
-        {
+        { int a = 0;
+            string b = "test";
+            char c = 'c';
             return View();
         }
 
